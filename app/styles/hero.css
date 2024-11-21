@@ -1,0 +1,54 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.left{
+    text-align: left;
+    width: 50%;
+    height: 100vh;
+    color: #044e83;
+    margin-top: 10rem;
+    margin-left: 2rem;
+    text-decoration:none;
+             
+}
+.governor{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+
+}
+.kamran{
+    font-size: 30px;
+    opacity: 1;
+}
+.cloud{
+    font-size: 20px;
+}
+.p{
+    font-size: 20px;
+    color: navy;
+}
+.btn{
+    background-color: #044e83;
+    color: white;
+    height: 60px;
+    width: 160px;
+    font-size: 20px;
+    margin: 2px;
+}
+.numbr{
+    margin: 3px;
+    padding: 3px;
+}
+.accepted{
+margin: 3px;
+padding: 3px;
+}
+.right{
+    margin-top: 10px;
+}

@@ -1,0 +1,38 @@
+.result{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 10px;
+}
+.he1{
+    font-size: 30px;
+    font-weight:bold;
+    color: midnightblue;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+.in{
+    margin-top: 40px;
+    font-size: 20px;
+    color: midnightblue;
+    text-align: left;
+
+}
+.inp{
+    width: 400px;
+    height: 30px;
+    margin: 8px;
+    padding: 6px;
+    background-color: silver;
+}
+.bt{
+    background-color: midnightblue;
+    color: white;
+    height: 40px;
+    width: 200px;
+    padding: 5px;
+    margin: 20px;
+    font-size: 20px;
+}
